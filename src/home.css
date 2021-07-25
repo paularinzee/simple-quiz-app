@@ -1,0 +1,41 @@
+#contain{
+    background-image: url('img/photo.jpg');
+    background-size: cover;
+    background-position: center;
+   
+    justify-content: space-around;
+    height: 100vh;
+    width: 100vw;
+}
+
+.section{
+    
+    background-color: rgb(0,0,0,0.7);
+    height: 80vh;
+    width: 35vw;
+}
+h1{
+    
+    color: antiquewhite;
+    text-align: center;
+    
+}
+
+
+.play-button a{
+    margin-top: 50%;
+    text-decoration: none;
+    background:linear-gradient(to bottom, #44c767 5%, #5cbf2a 100%);
+	background-color:#44c767;
+	border-radius:28px;
+	border:1px solid #18ab29;
+	display:inline-block;
+    cursor:pointer;
+	color:#ffffff;
+	font-family:Arial;
+	font-size:21px;
+	padding:14px 71px;
+	text-decoration:none;
+	text-shadow:0px 1px 0px #2f6627;
+
+}
